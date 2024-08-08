@@ -2,7 +2,7 @@
 
 ## Einführung
 
-Unsere Datenschutzrichtlinie soll Ihnen helfen zu verstehen, welche Informationen wir bei der Nutzung der App sammeln, wie die App sie verwendet und welche Möglichkeiten Sie haben. CodeFitOne hat die ApiNote als App zur Unterstützung von Hobby-Imkern entwickelt. Dieser SERVICE wird von CodeFitOne zur Verfügung gestellt und ist für die Nutzung in der vorliegenden Form vorgesehen. 
+Unsere Datenschutzrichtlinie soll Ihnen helfen zu verstehen, welche Informationen wir bei der Nutzung der App sammeln, wie die App sie verwendet und welche Möglichkeiten Sie haben. CodeFitOne FlexCo entwicklet Apps in verschieden Bereichen zur Unterstützung des täglichen Lebens. Dieser SERVICE wird von CodeFitOne FlexCo zur Verfügung gestellt und ist für die Nutzung in der vorliegenden Form vorgesehen. 
 
 ## DSGVO-Grundlagen
 
