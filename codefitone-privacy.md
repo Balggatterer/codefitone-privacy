@@ -13,11 +13,11 @@ Neben den Informationspflichten nach der DSGVO bestehen noch jene nach dem TKG f
 
 ## Name und Kontaktdaten des Verantwortlichen
 
-### CodeFitOne FlexCo
+### Bernhard Fischler
 * 6095 Anger 9
 * Österreich
 * GF: Bernhard Fischler
-* E-Mail: codefitone@gmail.com
+* E-Mail: balggatterer@gmail.com
 
 
 ## Verarbeitungszwecke und Rechtsgrundlagen der Verarbeitung
